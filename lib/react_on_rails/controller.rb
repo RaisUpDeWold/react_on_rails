@@ -1,5 +1,4 @@
 # frozen_string_literal: true
-
 module ReactOnRails
   module Controller
     # Separate initialization of store from react_component allows multiple react_component calls to
